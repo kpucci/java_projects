@@ -1,0 +1,8 @@
+6
+0 1 copper 100 8
+0 2 copper 100 8
+0 3 copper 100 8
+1 2 optical 10000 10
+3 4 copper 100 8
+3 5 copper 100 8
+4 5 optical 10000 10

@@ -1,0 +1,6 @@
+Katie Pucci (Kev19)
+
+I implemented the user history using the UserHistory class, which extends the DLB class. I stored
+the frequency of the word as the value in the '^' terminator node of the corresponding key. I
+decided to use this approach to that I could use the same traversing methods from the DLB class
+to find the frequency associated with a specific word.

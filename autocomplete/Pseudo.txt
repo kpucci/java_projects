@@ -1,0 +1,18 @@
+COE1501 Project 1
+Pseudocode
+
+DLB Class:
+
+
+    Create root node reference
+
+    Node Class:
+        Create object for value
+        Create linked list of nodes for next
+
+    DLB constructor:
+
+
+    
+
+AM_TEST Class:

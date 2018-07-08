@@ -1,0 +1,11 @@
+I decided to implement my priority queue using a Hashtable for the lookup Car table
+and ArrayLists to maintain the queues. I used an ArrayList as opposed to an array so
+that I wouldn't have to worry about resizing. An ArrayList was used instead of a
+LinkedList because although the add() time can have the extra computation needed to
+resize the array, this only happens every so often. Its get() method is always O(1)
+due to array indexing, whereas the LinkedList get() method will always be O(n).
+
+A hashtable was used for the lookup table due to its O(1) put(), get(), and remove()
+times; however, this is a tradeoff for space. I used two classes - CarPrice and
+CarMileage - to handle comparisons of the property values and to hold a reference
+to the VIN of the car with which the property is associated.

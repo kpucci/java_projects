@@ -1,0 +1,7 @@
+5
+0 1 copper 3 10
+0 2 copper 7 10
+3 1 copper 7 10
+3 2 copper 9 10
+1 4 copper 1 10
+3 4 copper 5 10

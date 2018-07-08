@@ -1,0 +1,6 @@
+4
+0 1 copper 1000 10
+0 2 copper 1000 10
+3 1 copper 1000 10
+3 2 copper 1000 10
+1 2 copper 1 10

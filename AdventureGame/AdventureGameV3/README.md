@@ -143,7 +143,7 @@ For example, assume that my player has 3 items, with an item in slots 1, 3 and 4
 		* drink(player)
 			* This method should apply the effect of the potion, based on the potion’s type (e.g. If it’s a Minor Strength potion, then it should add 2 to the player’s strength) (note that a reference to the player is being passed to this method - use this reference to call the proper method in the ​Player​ class)
 
-ItemShop
+### ItemShop
 	* Private Constants
 		* Add all of the weapon-cost-related constants to this class as private, static constants.
 	* Methods
